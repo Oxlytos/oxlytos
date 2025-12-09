@@ -19,7 +19,7 @@
 - MAUI
 - Expected Graduation June 2027
 
-# 🍃HKR 2024-2025 (Kristianstad University) 
+# 🍃HKR 2024-2025 (Just a programming course at Kristianstad University) 
 - Course I took while working part time as a cleaner
 - C#
 - UWP Development
