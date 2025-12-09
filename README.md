@@ -48,7 +48,7 @@
 - Intern for a couple of months, created an internal database system with Svelte as a frontend for keeping tabs on the companies inventory
 
 ## 🫠 Other fun stuff
-- Encyclopedic of Pokemon games Gen I-VI
+- Encyclopedic knowledge of Pokemon games Gen I-VI
 - Big fan of The Clash and Marina
 
 Find out what I'm listening to whenever by looking at the widget down below! Procured from [here](https://github.com/kittinan/spotify-github-profile).
