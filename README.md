@@ -39,6 +39,7 @@
 # ⛪ Cemetery worker (Summers of 2023, 2024, 2025)
 - Maybe not the most typical or relevant work expereicen for someone studying software development, but making sure the graveyards and graves are neat and tidy, is a great passion of mine
 - Rudimentary gardening work with different tools around churchyards and cemeteries
+- Working in teams to accomplish sometimes physcially challeging tasks
 
 # 👩🏻‍🦯 Cleaner 2024-2025
 - Just as about as exciting as it sounds, I was a part time cleaner at the local hospital
