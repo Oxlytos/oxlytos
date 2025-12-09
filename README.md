@@ -11,7 +11,7 @@
 
 ## Education
 
-# 🏰(Nyköping Campus 2025-
+# 🏰 Nyköping Campus 2025-
 - Currently attending here!
 - C# & .NET Development
 - MYSQL
