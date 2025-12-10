@@ -44,7 +44,7 @@
 # 👩🏻‍🦯 Cleaner 2024-2025
 - Just as about as exciting as it sounds, I was a part time cleaner at the local hospital
 
-# 👨🏻‍💻Software Developer
+# 👨🏻‍💻Software Developer 2024 March - May
 - Intern for a couple of months, created an internal database system with Svelte as a frontend for keeping tabs on the companies inventory
 
 ## 🫠 Other fun stuff
