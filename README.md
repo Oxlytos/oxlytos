@@ -37,15 +37,14 @@
 ## Work
 
 # ⛪ Cemetery worker (Summers of 2023, 2024, 2025)
-- Maybe not the most typical or relevant work expereicen for someone studying software development, but making sure the graveyards and graves are neat and tidy, is a great passion of mine
-- Rudimentary gardening work with different tools around churchyards and cemeteries
-- Working in teams to accomplish sometimes physcially challeging tasks
+- Fundamental gardening work with different tools around graveyards and cemeteries
+- Working in teams to accomplish sometimes physically challenging tasks
 
 # 👩🏻‍🦯 Cleaner 2024-2025
 - Just as about as exciting as it sounds, I was a part time cleaner at the local hospital
 
 # 👨🏻‍💻Software Developer 2024 March - May
-- Intern for a couple of months, created an internal database system with Svelte as a frontend for keeping tabs on the companies inventory
+- Intern for a couple of months, created an internal database system with Svelte as a frontend for keeping tabs on a companies inventory
 
 ## 🫠 Other fun stuff
 - Encyclopedic knowledge of Pokemon games Gen I-VI
